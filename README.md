@@ -1,4 +1,4 @@
-My Blog
+SCREENSHOT
 ![thumbnail](https://github.com/xCyberpunkx/Simple-Blog/assets/116972275/d428e8fe-6812-4a16-adb0-53b82a08c945)
 
 Welcome to my blog, where I share my thoughts on gaming, tech, fitness, health, and food. This repository contains all the source code and content for my blog.
